@@ -26,6 +26,9 @@ Single-Page-CV
     cd Single-Page-CV
 3.open index.html in any web browser
 
+## Project URL
+ isminarifa-pixel.github.io.
+
 ## Author
 Arifa Nesmeen A H
 GitHub: github.com/isminarifa-pixel
