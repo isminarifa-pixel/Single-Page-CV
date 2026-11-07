@@ -27,7 +27,7 @@ Single-Page-CV
 3.open index.html in any web browser
 
 ## Project URL
- isminarifa-pixel.github.io.
+ https://arifanesmeenresumevercel.vercel.app/
 
 ## Author
 Arifa Nesmeen A H
