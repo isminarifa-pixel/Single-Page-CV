@@ -28,6 +28,7 @@ Single-Page-CV
 
 ## Project URL
  https://arifanesmeenresumevercel.vercel.app/
+ https://roadmap.sh/projects/single-page-cv
 
 ## Author
 Arifa Nesmeen A H
